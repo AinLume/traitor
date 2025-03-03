@@ -3,6 +3,7 @@
 Commit 1
 Commit 2
 Commit 3
+Commit 4
 
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
