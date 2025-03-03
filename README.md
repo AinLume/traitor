@@ -1,10 +1,14 @@
 # Traitor
 
+<<<<<<< HEAD
 COMMIT #1
 ---------
 COMMIT #2
 ---------
 COMMIT #3
+=======
+
+>>>>>>> branch1
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
